@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JendaPlayz
+- 👀 I’m interested in ... cybersecurity
+- 🌱 I’m currently learning ... python
+-Im also very lazy
